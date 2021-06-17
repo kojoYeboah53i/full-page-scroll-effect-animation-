@@ -20,6 +20,7 @@ section{
 }
 .container{
     scroll-snap-type: y mandatory; /*the scroll snaps to the start of the next section*/
+    scroll-snap-type: proximity; /** this is also another way to snap the scroll just when its near the section*/
     overflow-y: scroll;
     height: 100vh;
 
