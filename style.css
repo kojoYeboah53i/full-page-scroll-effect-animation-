@@ -19,7 +19,7 @@ section{
 
 }
 .container{
-    scroll-snap-type: y mandatory;
+    scroll-snap-type: y mandatory; /*the scroll snaps to the start of the next section*/
     overflow-y: scroll;
     height: 100vh;
 
