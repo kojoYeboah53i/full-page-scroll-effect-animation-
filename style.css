@@ -15,9 +15,15 @@ section{
     justify-content: center;
     align-items: center;
     color: white;
+    scroll-snap-align: start; /*this is where the magic happens*/
 
 }
+.container{
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+    height: 100vh;
 
+}
 .one {
     background-color: rgb(34, 202, 34);
 }
