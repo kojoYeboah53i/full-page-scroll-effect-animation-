@@ -1,6 +1,7 @@
 # full page scroll effect animation 
  scroll effect using css
- scroll-snap-type:
+ scroll-snap-type: mandatory || proximity || block || inline
+ scroll-snap-align: sta
 
 Scroll snapping refers to "locking" the position of the 
 viewport to specific elements on the page as the 
