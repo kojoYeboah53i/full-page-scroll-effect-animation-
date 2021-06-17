@@ -16,3 +16,10 @@ section{
     align-items: center;
 
 }
+
+.one {
+    background-color: rgb(34, 202, 34);
+}
+.two {
+    background-color: rgb(211, 79, 79);
+}
