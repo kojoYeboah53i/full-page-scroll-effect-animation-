@@ -8,3 +8,7 @@
 body{
     background-color: #fff;
 }
+
+section{
+    height: 100vh;
+}
